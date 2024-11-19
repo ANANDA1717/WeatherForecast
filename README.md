@@ -1,4 +1,4 @@
-his is a simple Weather Forecasting App that provides real-time weather information for any city, powered by a weather API. It allows users to enter a city name, fetch the current weather details, and display information like temperature, humidity, wind speed, and weather conditions.
+This is a simple Weather Forecasting App that provides real-time weather information for any city, powered by a weather API. It allows users to enter a city name, fetch the current weather details, and display information like temperature, humidity, wind speed, and weather conditions.
 
 Features
 Real-time weather data: Fetches current weather details using a weather API.
